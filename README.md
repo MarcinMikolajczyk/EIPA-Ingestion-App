@@ -3,17 +3,17 @@
 App returns updated electricity charging point. Program using spring webflux and spring integration frameworks.
 In application.properties file you can configure:
 
-`export-data=`address with data
+`export-data=` link with dynamic data
 
-`export-data-token=`user token
+`export-data-token=` user token
 
-`repeat-rate=`time intervals between request to server
+`repeat-rate=` time intervals between request to server
 
 ## Updated Points
 
 ### GET
 
-App returning json with data on api event address:
+The application returns a json file with data about the API event address:
 
 - `/api/updated-points`
 
