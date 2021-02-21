@@ -13,7 +13,7 @@ In application.properties file you can configure:
 
 ### GET
 
-The application returns a json file with data about the API event address:
+The application returns a json file with data at the API event address:
 
 - `/api/updated-points`
 
